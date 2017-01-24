@@ -25,6 +25,10 @@
 )
 (:goal
 	(and
+	    (handempty a1)
+	    (handempty a2)
+	    (handempty a3)
+	    (handempty a4)
 		(on d c)
 		(on c b)
 		(on b a)

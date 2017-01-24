@@ -7,8 +7,8 @@
 	(on ?x - block ?y - block)
 	(ontable ?x - block)
 	(clear ?x - block)
-    (holding ?agent - agent ?x - block)
-    (handempty ?agent - agent)
+    (holding ?ag - agent ?x - block)
+    (handempty ?ag - agent)
 )
 
 (:action pick-up
